@@ -2,7 +2,6 @@ import Head from 'next/head'
 import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import rainbowCowLogo from '../public/img/rainbow-cow-logo.gif'
-import rainbowCow from '../public/img/rainbow-cow.png'
 import Content from '../content/index.mdx'
 
 export default function Home() {
