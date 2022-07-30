@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.45e2993a.css",
-    "main.js": "/static/js/main.53ee23f5.js",
-    "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
-    "static/media/rainbow-cow-logo.gif": "/static/media/rainbow-cow-logo.5e374df29f96e86c092a.gif",
-    "static/media/background.png": "/static/media/background.7e790ea78a7efad4f926.png",
-    "index.html": "/index.html",
-    "main.45e2993a.css.map": "/static/css/main.45e2993a.css.map",
-    "main.53ee23f5.js.map": "/static/js/main.53ee23f5.js.map",
-    "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
+    "main.css": "website/static/css/main.05e5a2a2.css",
+    "main.js": "website/static/js/main.40586623.js",
+    "static/js/787.71e672d5.chunk.js": "website/static/js/787.71e672d5.chunk.js",
+    "static/media/rainbow-cow-logo.gif": "website/static/media/rainbow-cow-logo.5e374df29f96e86c092a.gif",
+    "static/media/background.png": "website/static/media/background.7e790ea78a7efad4f926.png",
+    "index.html": "website/index.html",
+    "main.05e5a2a2.css.map": "website/static/css/main.05e5a2a2.css.map",
+    "main.40586623.js.map": "website/static/js/main.40586623.js.map",
+    "787.71e672d5.chunk.js.map": "website/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.45e2993a.css",
-    "static/js/main.53ee23f5.js"
+    "static/css/main.05e5a2a2.css",
+    "static/js/main.40586623.js"
   ]
 }
