@@ -5,10 +5,10 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} alt="logo" />
+      <header className="pt-4 pb-6">
+        <img src={logo} alt="logo" className="mx-auto" />
       </header>
-      <main>
+      <main className="max-w-4xl mx-auto">
         <ReactMarkdown>{`Hello! We are Rainbow Cow, AKA [Jeremy Kahn](https://github.com/jeremyckahn/) and [Luke Stebner](https://github.com/lstebner/). We're a pair of developers who love making fun games for people.`}</ReactMarkdown>
       </main>
     </div>
