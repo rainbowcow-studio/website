@@ -1,7 +1,7 @@
 import ReactMarkdown from 'react-markdown'
 import logo from './img/rainbow-cow-logo.gif'
 import wavingScarecrow from './img/waving-scarecrow.gif'
-import './App.css'
+import './App.scss'
 
 function App() {
   return (
