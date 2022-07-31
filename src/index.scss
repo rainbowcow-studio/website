@@ -15,10 +15,26 @@ $link-color: #1677fa;
 
 a {
   color: $link-color;
+
+  &:hover {
+    color: darken($link-color, 20);
+  }
 }
 
-a:hover {
-  color: darken($link-color, 20)
+p {
+  @apply mt-4;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold mt-4 mb-2;
+}
+
+ul {
+  @apply pl-6;
+
+  li {
+    @apply list-disc;
+  }
 }
 
 section {
