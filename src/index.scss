@@ -11,7 +11,17 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+$link-color: #1677fa;
+
+a {
+  color: $link-color;
+}
+
+a:hover {
+  color: darken($link-color, 20)
+}
+
+section {
+  @apply p-4 rounded-xl;
+  background: rgba(255, 255, 255, 0.5);
 }

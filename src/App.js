@@ -9,7 +9,9 @@ function App() {
         <img src={logo} alt="logo" className="mx-auto" />
       </header>
       <main className="max-w-4xl mx-auto">
-        <ReactMarkdown>{`Hello! We are Rainbow Cow, AKA [Jeremy Kahn](https://github.com/jeremyckahn/) and [Luke Stebner](https://github.com/lstebner/). We're a pair of developers who love making fun games for people.`}</ReactMarkdown>
+        <section>
+          <ReactMarkdown>{`Hello! We are Rainbow Cow, AKA [Jeremy Kahn](https://github.com/jeremyckahn/) and [Luke Stebner](https://github.com/lstebner/). We're a pair of developers who love making fun games for people.`}</ReactMarkdown>
+        </section>
       </main>
     </div>
   )
