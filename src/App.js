@@ -25,6 +25,7 @@ Luke and Jeremy look forward to expanding the Farmhand universe and perhaps expa
 
 ## GitHub
 
+- [Rainbow Cow](https://github.com/rainbowcow-studio/)
 - [Luke Stebner](https://github.com/lstebner/)
 - [Jeremy Kahn](https://github.com/jeremyckahn/)
 
