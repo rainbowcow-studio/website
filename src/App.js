@@ -21,7 +21,9 @@ Luke and Jeremy look forward to expanding the Farmhand universe and perhaps expa
 ## Our projects
 
 - [Farmhand](https://farmhand.life/)
-- [Farmhand Go!](https://rainbowcow-studio.itch.io/farmhand-go)
+- Farmhand Go!
+  - [Purchase on Steam (supports further development!)](https://store.steampowered.com/app/2080880/Farmhand_Go/)
+  - [Try for free on the web](https://rainbowcow-studio.itch.io/farmhand-go)
 
 ## GitHub
 
