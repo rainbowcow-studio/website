@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.d7f1239e.css",
-    "main.js": "/static/js/main.3f4a0787.js",
+    "main.js": "/static/js/main.e5bde605.js",
     "static/js/787.71e672d5.chunk.js": "/static/js/787.71e672d5.chunk.js",
     "static/media/waving-scarecrow.gif": "/static/media/waving-scarecrow.9e054dcfa8ea91dab3d9.gif",
     "static/media/rainbow-cow-logo.gif": "/static/media/rainbow-cow-logo.5e374df29f96e86c092a.gif",
     "static/media/background.png": "/static/media/background.7e790ea78a7efad4f926.png",
     "index.html": "/index.html",
     "main.d7f1239e.css.map": "/static/css/main.d7f1239e.css.map",
-    "main.3f4a0787.js.map": "/static/js/main.3f4a0787.js.map",
+    "main.e5bde605.js.map": "/static/js/main.e5bde605.js.map",
     "787.71e672d5.chunk.js.map": "/static/js/787.71e672d5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d7f1239e.css",
-    "static/js/main.3f4a0787.js"
+    "static/js/main.e5bde605.js"
   ]
 }
